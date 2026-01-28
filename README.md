@@ -2,7 +2,7 @@
 
 ## To run program:
 
-    ```python3 ./calculator.py```
+    python3 ./calculator.py
 
 ## To add:
     Select option 1 when prompted
@@ -29,3 +29,4 @@
 
 ## To exit
     Select option 5 when prompted
+
